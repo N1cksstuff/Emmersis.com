@@ -74,8 +74,8 @@ img {
 }
 
 .app .avatar {
-    width: 13rem;
-    height: 13rem;
+    width: 10rem;
+    height: auto;
 }
 
 .app .avatar img {
